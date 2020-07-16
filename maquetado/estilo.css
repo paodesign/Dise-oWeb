@@ -1,0 +1,115 @@
+#cabecera{ 
+    width: 960px;
+    height: 80px;
+    background-color: rgb(182, 42, 238);
+    margin-right: auto;
+    margin-left: auto; 
+    margin-bottom: 10px;
+}
+#marca {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(63, 236, 63);
+    margin-left: 150px;
+    float: left;
+}
+#botonera {
+    width:450px;
+    height: 80px;
+    background-color: rgb(2, 148, 34);
+    margin-right: 150px;
+    float:right;
+}
+#contenido {
+    width: 960px;
+    height: 1200px;
+    background-color: rgb(112, 19, 167);
+    margin-left: auto;
+    margin-right: auto;
+}
+#imagen {
+    width: 960px;
+    height:200px;
+    background-color: rgb(239, 57, 245);
+}
+#imagen_izq {
+    width: 250px;
+    height: 350px;
+    background-color: rgb(232, 139, 248);
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float: left;
+}
+#texto_der {
+    width: 250px;
+    height: 450px;
+    background-color: rgb(197, 179, 226);
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float: right;
+}
+#contenedor_izq {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(111, 185, 245);
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float: left;
+}
+#contenedor_cen {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(26, 115, 189);
+    margin-left: 55px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float: left;
+}
+#contenedor_der {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(12, 55, 90);
+    margin-left: 55px;
+    margin-right:200px; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float:right;
+}
+#pie{   
+    width: 960px;
+    height: 450px;
+    background-color: rgb(32, 2, 49);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+#texto_contacto {
+    width:200px;
+    height: 100px;
+    background-color: rgb(230, 192, 70);
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-top: 50px;
+    float: left;
+}
+#contenedor_contacto {
+    width: 460px;
+    height: 200px;
+    background-color: rgb(250, 246, 21);
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 10px;
+    float: left;
+}
+#redes {
+    width: 460px;
+    height: 50px;
+    background-color: rgb(219, 230, 124);
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 20px;
+    float: left;
+}

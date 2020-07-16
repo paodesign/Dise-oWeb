@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./Recursos/fondo.jpg);
+    background-size: 1400px;
+}
+#header { 
+    width: 960px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(102, 95, 95, 0.431);
+    margin-top: 50px;
+}
+
+#marca {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(83, 80, 80);
+    margin:0px;
+    margin-left: 50px;
+    float: left;
+}
+#botonera {
+    width:450px;
+    height: 80px;
+    background-color:rgba(83, 80, 80, 0.383);
+    margin-right: 150px;
+    float:right; 
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li a {
+    width:108px;
+    height: 70px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height:50px;
+    font-weight: italic; 
+}
+.menu li {
+    display: inline;
+}
+.menu li a
+{   
+    display:inline-block;    
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+    margin-bottom: 5px;
+    text-align: center;
+    border:none;
+}
+.menu li a:hover {
+    background-color: rgba(255, 255, 255, 0.322);
+ }

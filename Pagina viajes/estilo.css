@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cabecera{ 
+    width: 960px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-right: auto;
+    margin-left: auto; 
+    margin-bottom: 10px;
+}
+
+#marca {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 150px;
+    float: left;
+}
+#marca img {
+    width: 190px;
+    height: 80px;
+    margin-top: 10px;
+}
+#botonera {
+    width:450px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-right: 150px;
+    float:right;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li a
+{
+    width:108px;
+    height: 80px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height:50px;
+    font-weight: italic; 
+}
+
+.menu li
+{
+    display: inline;
+}
+
+.menu li a
+{   
+    display:inline-block;    
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-bottom: 5px;
+    text-align: center;
+    border:none;
+}
+
+.menu li a:hover
+{
+    background-color: rgba(255, 255, 255, 0.322);
+ }
+ #contenido
+  {
+    width: 960px;
+    height: 1200px;
+    background-color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+}
+#imagen img 
+{
+    width: 960px;
+    height:200px;
+}
+#imagen_izq {
+    width: 250px;
+    height: 350px;
+    background-color: rgb(232, 139, 248);
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float: left;
+}
+#texto_der {
+    width: 250px;
+    height: 450px;
+    background-color: rgb(197, 179, 226);
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float: right;
+}
+#contenedor_izq {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(111, 185, 245);
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float: left;
+}
+#contenedor_cen {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(26, 115, 189);
+    margin-left: 55px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float: left;
+}
+#contenedor_der {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(12, 55, 90);
+    margin-left: 55px;
+    margin-right:200px; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    float:right;
+}
